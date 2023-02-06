@@ -1,0 +1,13 @@
+# temporary Libreoffice files
+*.tmp
+.~*.*#
+*~
+
+# PDF files
+*.pdf
+
+# rif directory
+rif
+
+# txt files
+*.txt
